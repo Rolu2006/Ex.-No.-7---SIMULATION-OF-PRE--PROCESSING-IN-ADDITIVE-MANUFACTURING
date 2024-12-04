@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+![EX01](https://github.com/user-attachments/assets/eb00c773-b76c-405f-9367-37c65664beac)![EMPD 5](https://github.com/user-attachments/assets/29ebb5c6-6bcd-4b5d-b64e-e683f1dda7ee)![EMPD 4](https://github.com/user-attachments/assets/baf60427-c8b5-446a-abbc-5080c282cbbd)# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
 ### DATE: 
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
@@ -45,8 +45,41 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+
+
+![EMPD 1](https://github.com/user-attachments/assets/4d2f4daa-2e27-4edb-b7a7-d5a01ba0101d)
+
+![EMPD 2](https://github.com/user-attachments/assets/6058a0bf-4e73-40a5-96c5-07c04d05f6de)
+![EMPD 3](https://github.com/user-attachments/assets/c664e163-be1d-4391-842a-022c2b64b59a)
+
+
+![EMPD 4](https://github.com/user-attachments/assets/42f3d23e-2fd9-45d1-a07d-a9473aaf47de)
+
+
+
+
+
+
+
+![EMPD 5](https://github.com/user-attachments/assets/0b088787-5bfd-49a1-a07b-806b3d215798)
+
+
+
+
+
+![Screenshot 2024-12-04 103227](https://github.com/user-attachments/assets/6b27f87c-cb83-4a89-9e95-b53b1fb37456)
+
+
+
+
+
+
+
+
+
+### Name:somalarajurohini
+### Register Number:24000337
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.

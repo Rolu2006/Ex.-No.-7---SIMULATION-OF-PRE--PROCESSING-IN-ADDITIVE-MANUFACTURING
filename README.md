@@ -1,4 +1,4 @@
-![EX01](https://github.com/user-attachments/assets/eb00c773-b76c-405f-9367-37c65664beac)![EMPD 5](https://github.com/user-attachments/assets/29ebb5c6-6bcd-4b5d-b64e-e683f1dda7ee)![EMPD 4](https://github.com/user-attachments/assets/baf60427-c8b5-446a-abbc-5080c282cbbd)# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+ Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
 ### DATE: 
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
